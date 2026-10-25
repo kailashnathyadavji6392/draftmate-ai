@@ -9,7 +9,9 @@
     "server": "node server/index.js",
     "client": "npm run dev --prefix client",
     "dev": "node server/index.js",
-    "build": "npm run build --prefix client",
+    "build": "npm --prefix client install && npm --prefix client run build",
+    "build:client": "npm --prefix client install && npm --prefix client run build",
+    "build:server": "npm install",
     "test": "node server/test_final_e2e.js",
     "test:prompt3d": "node server/test_prompt3d_full.js",
     "test:multiuser": "node server/test_multi_user.js"

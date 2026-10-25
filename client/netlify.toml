@@ -1,0 +1,13 @@
+# Netlify Configuration when Base directory is set to "client" in Netlify Dashboard
+
+[build]
+  command = "npm install && npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

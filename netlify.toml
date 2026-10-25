@@ -1,0 +1,28 @@
+# Netlify Configuration for DraftMate AI Frontend
+
+[build]
+  # Installs frontend dependencies and compiles Vite production assets into client/dist
+  command = "npm --prefix client install && npm --prefix client run build"
+  publish = "client/dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Single Page Application (SPA) Fallback: redirects all client routes to index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Security and Cache Headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

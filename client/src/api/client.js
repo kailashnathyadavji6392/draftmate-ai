@@ -1,8 +1,36 @@
 // Robust API Client for DraftMate Evidence Intelligence
-// Supports HttpOnly cookie authentication, multi-user isolation, and binary document streaming
+// Supports HttpOnly cookie authentication, Bearer token authorization, multi-user isolation, and binary document streaming
 
-const BACKEND_BASE = (typeof import.meta !== 'undefined' && import.meta.env?.VITE_API_URL ? import.meta.env.VITE_API_URL : '').replace(/\/+$/, '');
-const API_BASE = `${BACKEND_BASE}/api`;
+// Resolve base backend URL from environment (supports VITE_API_BASE_URL and VITE_API_URL)
+const rawBase = (
+  (typeof import.meta !== 'undefined' && import.meta.env?.VITE_API_BASE_URL) ||
+  (typeof import.meta !== 'undefined' && import.meta.env?.VITE_API_URL) ||
+  ''
+).trim().replace(/\/+$/, '');
+
+// Normalizes API base: prevents double '/api' if user passes 'https://backend.com/api'
+export const API_BASE = rawBase
+  ? (rawBase.endsWith('/api') ? rawBase : `${rawBase}/api`)
+  : '/api';
+
+const TOKEN_STORAGE_KEY = 'draftmate_auth_token';
+
+function getStoredToken() {
+  if (typeof window !== 'undefined' && window.localStorage) {
+    return localStorage.getItem(TOKEN_STORAGE_KEY);
+  }
+  return null;
+}
+
+function setStoredToken(token) {
+  if (typeof window !== 'undefined' && window.localStorage) {
+    if (token) {
+      localStorage.setItem(TOKEN_STORAGE_KEY, token);
+    } else {
+      localStorage.removeItem(TOKEN_STORAGE_KEY);
+    }
+  }
+}
 
 async function request(endpoint, options = {}) {
   const url = `${API_BASE}${endpoint}`;
@@ -10,6 +38,12 @@ async function request(endpoint, options = {}) {
 
   if (!(options.body instanceof FormData)) {
     headers['Content-Type'] = 'application/json';
+  }
+
+  // Attach token if present for cross-site cookie resilience
+  const token = getStoredToken();
+  if (token && !headers['Authorization']) {
+    headers['Authorization'] = `Bearer ${token}`;
   }
 
   try {
@@ -22,7 +56,7 @@ async function request(endpoint, options = {}) {
     const data = await response.json().catch(() => ({}));
 
     if (!response.ok) {
-      const errorMsg = data.error || `Server returned status ${response.status}: ${response.statusText}`;
+      const errorMsg = data.error || data.message || `Server returned status ${response.status}: ${response.statusText}`;
       const error = new Error(errorMsg);
       error.status = response.status;
       error.code = data.code;
@@ -34,6 +68,12 @@ async function request(endpoint, options = {}) {
     if (endpoint !== '/auth/me') {
       console.error(`API request error on ${endpoint}:`, err.message);
     }
+    // Provide a clear, actionable message for network failures (e.g. Render server cold-start)
+    if (err.name === 'TypeError' && err.message.toLowerCase().includes('fetch')) {
+      const connErr = new Error(`Unable to connect to DraftMate API at ${API_BASE}. If using Render free tier, the server may be waking up (30-50s). Please check your internet connection or backend status.`);
+      connErr.status = 0;
+      throw connErr;
+    }
     throw err;
   }
 }
@@ -41,9 +81,13 @@ async function request(endpoint, options = {}) {
 // Binary File Downloader for PDF and DOCX Exports
 async function downloadFile(endpoint, payload, defaultFilename) {
   const url = `${API_BASE}${endpoint}`;
+  const headers = { 'Content-Type': 'application/json' };
+  const token = getStoredToken();
+  if (token) headers['Authorization'] = `Bearer ${token}`;
+
   const response = await fetch(url, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers,
     body: JSON.stringify(payload),
     credentials: 'include'
   });
@@ -75,8 +119,13 @@ async function downloadFile(endpoint, payload, defaultFilename) {
 // Authorized Document File Downloader (checks ownership on backend)
 async function downloadAuthorizedDocument(documentId, defaultFilename = 'document.txt') {
   const url = `${API_BASE}/documents/${documentId}/download`;
+  const headers = {};
+  const token = getStoredToken();
+  if (token) headers['Authorization'] = `Bearer ${token}`;
+
   const response = await fetch(url, {
     method: 'GET',
+    headers,
     credentials: 'include'
   });
 
@@ -106,9 +155,26 @@ async function downloadAuthorizedDocument(documentId, defaultFilename = 'documen
 
 export const api = {
   // Authentication & Account API
-  signup: (data) => request('/auth/signup', { method: 'POST', body: JSON.stringify(data) }),
-  login: (data) => request('/auth/login', { method: 'POST', body: JSON.stringify(data) }),
-  logout: () => request('/auth/logout', { method: 'POST' }),
+  signup: async (data) => {
+    const res = await request('/auth/signup', { method: 'POST', body: JSON.stringify(data) });
+    if (res.token) setStoredToken(res.token);
+    return res;
+  },
+  login: async (data) => {
+    const res = await request('/auth/login', { method: 'POST', body: JSON.stringify(data) });
+    if (res.token) setStoredToken(res.token);
+    return res;
+  },
+  logout: async () => {
+    try {
+      const res = await request('/auth/logout', { method: 'POST' });
+      setStoredToken(null);
+      return res;
+    } catch (err) {
+      setStoredToken(null);
+      throw err;
+    }
+  },
   getMe: () => request('/auth/me'),
   updateProfile: (data) => request('/auth/profile', { method: 'PUT', body: JSON.stringify(data) }),
   forgotPassword: (email) => request('/auth/forgot-password', { method: 'POST', body: JSON.stringify({ email }) }),

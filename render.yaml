@@ -1,36 +1,34 @@
 # render.yaml — Render Infrastructure as Code Blueprint
-# DraftMate Evidence Intelligence: Unified Full-Stack Production Deployment with Persistent PostgreSQL Storage
+# DraftMate Evidence Intelligence: Production Backend API Service with Managed PostgreSQL
 
 databases:
   - name: draftmate-postgres
-    plan: free # Or upgrade to starter for permanent retention beyond 90 days
+    plan: free # Free tier or Starter for permanent retention
     databaseName: draftmate
     user: draftmate_user
-    region: singapore # Optimized low-latency region for Indian judicial workflows
+    region: singapore # Low-latency region for Indian judicial tech workflows
 
 services:
   - type: web
     name: draftmate-ai
     env: node
-    plan: free # Or starter
+    plan: free
     region: singapore
-    buildCommand: npm install && npm run build
+    buildCommand: npm install
     startCommand: npm start
     autoDeploy: true
     envVars:
       - key: NODE_ENV
         value: production
-      - key: PORT
-        value: 5001
       - key: DATABASE_URL
         fromDatabase:
           name: draftmate-postgres
           property: connectionString
       - key: JWT_SECRET
-        generateValue: true # Render automatically generates a 256-bit cryptographically secure string
+        generateValue: true # Render automatically generates a secure 256-bit secret
       - key: JWT_EXPIRES_IN
         value: 7d
       - key: GEMINI_API_KEY
-        sync: false # Enter in Render Dashboard under Environment Secrets
+        sync: false # Set your Google Gemini API Key in the Render dashboard
       - key: CORS_ORIGIN
-        value: "" # Leave empty for unified single-origin deployment
+        value: "netlify.app" # Allows Netlify frontend to connect with credentials
