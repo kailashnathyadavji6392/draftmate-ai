@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "doc-1792903697486-306",
+    "userId": "usr-1792903697004-655",
+    "matterId": "mat-1792903697464-770",
+    "title": "User_A_Privileged_Deposition.txt",
+    "originalName": "User_A_Privileged_Deposition.txt",
+    "fileType": "text/plain",
+    "sizeBytes": 109,
+    "downloadUrl": "/api/documents/doc-1792903697486-306/download",
+    "wordCount": 17,
+    "pageCount": 1,
+    "isScanned": false,
+    "documentType": "Witness Statement",
+    "sha256Hash": "a003193fcc78e12350b2e93ba1bba516e6e746c83b16a56a61fb39769eac1eb0",
+    "extractedFacts": [
+      {
+        "id": "fact-statute-1",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Code of Criminal Procedure, 1973 - undefined",
+        "sourceDocumentId": "doc-1792903697486-306",
+        "sourceDocumentName": "User_A_Privileged_Deposition.txt",
+        "sourceLocation": "Statutory Reference",
+        "isGroundTruth": true
+      }
+    ],
+    "parties": [],
+    "datesAndDeadlines": [],
+    "financialObligations": [],
+    "clausesAndClaims": [],
+    "legalReferences": [
+      {
+        "id": "fact-statute-1",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Code of Criminal Procedure, 1973 - undefined",
+        "sourceDocumentId": "doc-1792903697486-306",
+        "sourceDocumentName": "User_A_Privileged_Deposition.txt",
+        "sourceLocation": "Statutory Reference",
+        "isGroundTruth": true
+      }
+    ],
+    "status": "Draft",
+    "uploadedAt": "2026-10-25T04:48:17.494Z",
+    "content": "This is confidential client testimony given in camera under Section 327 CrPC / 371 BNSS. Strictly privileged.",
+    "createdAt": "2026-10-25T04:48:17.494Z",
+    "updatedAt": "2026-10-25T04:48:17.494Z"
+  },
+  {
+    "id": "doc-1792903580590-441",
+    "userId": "usr-1792903580217-206",
+    "matterId": "mat-1792903580566-610",
+    "title": "User_A_Privileged_Deposition.txt",
+    "originalName": "User_A_Privileged_Deposition.txt",
+    "fileType": "text/plain",
+    "sizeBytes": 109,
+    "downloadUrl": "/api/documents/doc-1792903580590-441/download",
+    "wordCount": 17,
+    "pageCount": 1,
+    "isScanned": false,
+    "documentType": "Witness Statement",
+    "sha256Hash": "a003193fcc78e12350b2e93ba1bba516e6e746c83b16a56a61fb39769eac1eb0",
+    "extractedFacts": [
+      {
+        "id": "fact-statute-1",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Code of Criminal Procedure, 1973 - undefined",
+        "sourceDocumentId": "doc-1792903580590-441",
+        "sourceDocumentName": "User_A_Privileged_Deposition.txt",
+        "sourceLocation": "Statutory Reference",
+        "isGroundTruth": true
+      }
+    ],
+    "parties": [],
+    "datesAndDeadlines": [],
+    "financialObligations": [],
+    "clausesAndClaims": [],
+    "legalReferences": [
+      {
+        "id": "fact-statute-1",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Code of Criminal Procedure, 1973 - undefined",
+        "sourceDocumentId": "doc-1792903580590-441",
+        "sourceDocumentName": "User_A_Privileged_Deposition.txt",
+        "sourceLocation": "Statutory Reference",
+        "isGroundTruth": true
+      }
+    ],
+    "status": "Draft",
+    "uploadedAt": "2026-10-25T04:46:20.595Z",
+    "content": "This is confidential client testimony given in camera under Section 327 CrPC / 371 BNSS. Strictly privileged.",
+    "createdAt": "2026-10-25T04:46:20.595Z",
+    "updatedAt": "2026-10-25T04:46:20.595Z"
+  },
+  {
+    "id": "doc-1792899807102-409",
+    "matterId": "mat-1792897606697",
+    "title": "devansh_iit.pdf",
+    "originalName": "devansh_iit.pdf",
+    "fileType": "application/pdf",
+    "sizeBytes": 377693,
+    "wordCount": 46,
+    "pageCount": 1,
+    "isScanned": false,
+    "scanNotice": null,
+    "documentType": "Electronic Evidence Certificate",
+    "sha256Hash": "4c32bb42c73d26a90f2960d72b9e694ad811290144c40276986df380f53ad9da",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Certificate of Participation\nThis certificate is proudly presented to\nDevansh kumar Dwivedi\nfrom United College Of Engineering and Research \u0000UCER\u0000,\nAllahabad as Team DoomsDev has participated in\nReConCTF'26 organized by Information Security Division\nCYBERLABS in CONCETTO'26, held at IIT \u0000ISM\u0000 Dhanbad."
+      }
+    ],
+    "extractedFacts": [],
+    "parties": [],
+    "datesAndDeadlines": [],
+    "financialObligations": [],
+    "clausesAndClaims": [],
+    "legalReferences": [],
+    "status": "Processed",
+    "uploadedAt": "2026-10-25T03:43:27.103Z",
+    "content": "Certificate of Participation\nThis certificate is proudly presented to\nDevansh kumar Dwivedi\nfrom United College Of Engineering and Research \u0000UCER\u0000,\nAllahabad as Team DoomsDev has participated in\nReConCTF'26 organized by Information Security Division\nCYBERLABS in CONCETTO'26, held at IIT \u0000ISM\u0000 Dhanbad.\n\n-- 1 of 1 --\n\n",
+    "userId": "usr-legacy-demo"
+  },
+  {
+    "id": "doc-1792883643141-392",
+    "matterId": "mat-ind-001",
+    "title": "devansh_iit.pdf",
+    "originalName": "devansh_iit.pdf",
+    "fileType": "application/pdf",
+    "sizeBytes": 377693,
+    "wordCount": 46,
+    "pageCount": 1,
+    "isScanned": false,
+    "scanNotice": null,
+    "documentType": "Electronic Evidence Certificate",
+    "sha256Hash": "4c32bb42c73d26a90f2960d72b9e694ad811290144c40276986df380f53ad9da",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "text": "Certificate of Participation\nThis certificate is proudly presented to\nDevansh kumar Dwivedi\nfrom United College Of Engineering and Research \u0000UCER\u0000,\nAllahabad as Team DoomsDev has participated in\nReConCTF'26 organized by Information Security Division\nCYBERLABS in CONCETTO'26, held at IIT \u0000ISM\u0000 Dhanbad."
+      }
+    ],
+    "extractedFacts": [],
+    "parties": [],
+    "datesAndDeadlines": [],
+    "financialObligations": [],
+    "clausesAndClaims": [],
+    "legalReferences": [],
+    "status": "Processed",
+    "uploadedAt": "2026-10-24T23:14:03.142Z",
+    "content": "Certificate of Participation\nThis certificate is proudly presented to\nDevansh kumar Dwivedi\nfrom United College Of Engineering and Research \u0000UCER\u0000,\nAllahabad as Team DoomsDev has participated in\nReConCTF'26 organized by Information Security Division\nCYBERLABS in CONCETTO'26, held at IIT \u0000ISM\u0000 Dhanbad.\n\n-- 1 of 1 --\n\n",
+    "userId": "usr-legacy-demo"
+  },
+  {
+    "id": "doc-1792883629713-415",
+    "matterId": "mat-ind-001",
+    "title": "witness_deposition_sharma.txt",
+    "originalName": "witness_deposition_sharma.txt",
+    "fileType": "text/plain",
+    "sizeBytes": 899,
+    "wordCount": 152,
+    "pageCount": 1,
+    "isScanned": false,
+    "scanNotice": null,
+    "documentType": "Plaint / Commercial Pleading",
+    "sha256Hash": "5ba5f424049897522cd6f179c3ad9b37a2bdafdaa322575fecddf2dbfecbf416",
+    "pages": [],
+    "extractedFacts": [
+      {
+        "id": "fact-date-1",
+        "category": "Date / Deadline",
+        "fact": "Event / Execution Date: 14th August 2026",
+        "rawExcerpt": "2. On 14th August 2026, the Defendant Bharat Cloud Solutions LLP suffered an unannounced server outage lasting 18 hours.",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "5. All server downtime timestamp logs have been st (Line 7)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-date-2",
+        "category": "Date / Deadline",
+        "fact": "Event / Execution Date: 22nd August 2026",
+        "rawExcerpt": "4. A legal notice dated 22nd August 2026 was served under Section 73 of the Indian Contract Act, 1872.",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "5. All server downtime timestamp logs have been st (Line 9)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-amt-1",
+        "category": "Financial Obligation",
+        "fact": "Claim / Obligation Amount: ₹ 1,25,00,000 ",
+        "rawExcerpt": "3. The financial loss incurred by the Plaintiff due to SLA failure is ₹ 1,25,00,000 (Rupees One Crore Twenty Five Lakhs).",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "5. All server downtime timestamp logs have been st (Line 8)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-1",
+        "category": "Factual Claim / Clause",
+        "fact": "Admissibility & Electronic Evidence: 5. All server downtime timestamp logs have been stored on optical media and authenticated ...",
+        "rawExcerpt": "5. All server downtime timestamp logs have been stored on optical media and authenticated under Section 63 of Bharatiya Sakshya Adhiniyam, 2023.",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "5. All server downtime timestamp logs have been st (Line 10)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-1",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Sakshya Adhiniyam, 2023 - Section 63 of Bharatiya Sakshya Adhiniyam, 2023",
+        "rawExcerpt": "Section 63 of Bharatiya Sakshya Adhiniyam, 2023",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "Equivalent to IEA Section 65B (Admissibility of electronic records)",
+        "isGroundTruth": true
+      }
+    ],
+    "parties": [],
+    "datesAndDeadlines": [
+      {
+        "id": "fact-date-1",
+        "category": "Date / Deadline",
+        "fact": "Event / Execution Date: 14th August 2026",
+        "rawExcerpt": "2. On 14th August 2026, the Defendant Bharat Cloud Solutions LLP suffered an unannounced server outage lasting 18 hours.",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "5. All server downtime timestamp logs have been st (Line 7)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-date-2",
+        "category": "Date / Deadline",
+        "fact": "Event / Execution Date: 22nd August 2026",
+        "rawExcerpt": "4. A legal notice dated 22nd August 2026 was served under Section 73 of the Indian Contract Act, 1872.",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "5. All server downtime timestamp logs have been st (Line 9)",
+        "isGroundTruth": true
+      }
+    ],
+    "financialObligations": [
+      {
+        "id": "fact-amt-1",
+        "category": "Financial Obligation",
+        "fact": "Claim / Obligation Amount: ₹ 1,25,00,000 ",
+        "rawExcerpt": "3. The financial loss incurred by the Plaintiff due to SLA failure is ₹ 1,25,00,000 (Rupees One Crore Twenty Five Lakhs).",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "5. All server downtime timestamp logs have been st (Line 8)",
+        "isGroundTruth": true
+      }
+    ],
+    "clausesAndClaims": [
+      {
+        "id": "fact-claim-1",
+        "category": "Factual Claim / Clause",
+        "fact": "Admissibility & Electronic Evidence: 5. All server downtime timestamp logs have been stored on optical media and authenticated ...",
+        "rawExcerpt": "5. All server downtime timestamp logs have been stored on optical media and authenticated under Section 63 of Bharatiya Sakshya Adhiniyam, 2023.",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "5. All server downtime timestamp logs have been st (Line 10)",
+        "isGroundTruth": true
+      }
+    ],
+    "legalReferences": [
+      {
+        "id": "fact-statute-1",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Sakshya Adhiniyam, 2023 - Section 63 of Bharatiya Sakshya Adhiniyam, 2023",
+        "rawExcerpt": "Section 63 of Bharatiya Sakshya Adhiniyam, 2023",
+        "sourceDocumentId": "doc-1792883629713-415",
+        "sourceDocumentName": "witness_deposition_sharma.txt",
+        "sourceLocation": "Equivalent to IEA Section 65B (Admissibility of electronic records)",
+        "isGroundTruth": true
+      }
+    ],
+    "status": "Processed",
+    "uploadedAt": "2026-10-24T23:13:49.722Z",
+    "content": "IN THE COURT OF DISTRICT & SESSIONS JUDGE, PATIALA HOUSE COURTS, NEW DELHI\nSUIT NO. 104 OF 2026\n\nSTATEMENT OF WITNESS: RAJESH SHARMA, S/O LATE SH. M.L. SHARMA, AGED 48 YEARS\n\n1. I am the Senior Director of Operations at Nexus Infotech Private Limited.\n2. On 14th August 2026, the Defendant Bharat Cloud Solutions LLP suffered an unannounced server outage lasting 18 hours.\n3. The financial loss incurred by the Plaintiff due to SLA failure is ₹ 1,25,00,000 (Rupees One Crore Twenty Five Lakhs).\n4. A legal notice dated 22nd August 2026 was served under Section 73 of the Indian Contract Act, 1872.\n5. All server downtime timestamp logs have been stored on optical media and authenticated under Section 63 of Bharatiya Sakshya Adhiniyam, 2023.\n\nDEPONENT: Rajesh Sharma\nVERIFICATION: Verified at New Delhi on this 24th day of October 2026 that the contents of paragraphs 1 to 5 are true and correct.",
+    "userId": "usr-legacy-demo"
+  },
+  {
+    "id": "doc-1792881188314-31",
+    "matterId": "mat-ind-001",
+    "title": "sample_upload_test.txt",
+    "originalName": "sample_upload_test.txt",
+    "fileType": "text/plain",
+    "sizeBytes": 172,
+    "wordCount": 28,
+    "pageCount": 1,
+    "documentType": "Anticipatory Bail Application",
+    "sha256Hash": "babc7799f09abd533db1191be4db229cdd16f3bef20a5825a8d3adc445c86133",
+    "status": "Processed",
+    "uploadedAt": "2026-10-24T22:33:08.314Z",
+    "content": "IN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCitations: (2020) 7 SCC 1 and Section 482 BNSS 2023.\nThis is a verified test pleading for upload verification.",
+    "extractedFacts": [
+      {
+        "id": "fact-law-1",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal (Supreme Court of India)",
+        "sourceDocumentId": "doc-1792881188314-31",
+        "sourceDocumentName": "sample_upload_test.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-1",
+          "citationText": "(2020) 7 SCC 1",
+          "citationType": "Case Precedent",
+          "reporter": "Supreme Court Cases (SCC)",
+          "court": "Supreme Court of India",
+          "year": 2020,
+          "caseTitle": "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal",
+          "bench": "R.F. Nariman, S. Ravindra Bhat, V. Ramasubramanian JJ. (3-Judge Bench)",
+          "decisionDate": "2020-07-14",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Digital Supreme Court Reports (DigiSCR / SCI)",
+          "sourceUrl": "https://digiscr.sci.gov.in",
+          "whatWasChecked": "Decided by R.F. Nariman, S. Ravindra Bhat, V. Ramasubramanian JJ. (3-Judge Bench) on 2020-07-14. Citation (2020) 7 SCC 1 authenticated against Digital Supreme Court Reports (DigiSCR / SCI). Ratio decidendi verified.",
+          "whatRemainsUncertain": "None — binding landmark authority confirmed on official repository.",
+          "sourceExcerpt": "Certificate under Section 65B(4) is a mandatory condition precedent to the admissibility of evidence by way of electronic record when original device cannot be brought to court.",
+          "sourceLocation": "Line 3",
+          "documentExcerpt": "Citations: (2020) 7 SCC 1 and Section 482 BNSS 2023.",
+          "relatedStatutes": [
+            "Bharatiya Sakshya Adhiniyam, 2023 - Section 63",
+            "Indian Evidence Act, 1872 - Section 65B"
+          ]
+        }
+      },
+      {
+        "id": "fact-statute-2",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Nyaya Sanhita, 2023 - undefined",
+        "sourceDocumentId": "doc-1792881188314-31",
+        "sourceDocumentName": "sample_upload_test.txt",
+        "sourceLocation": "Statutory Reference",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-3",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Nagarik Suraksha Sanhita, 2023 - undefined",
+        "sourceDocumentId": "doc-1792881188314-31",
+        "sourceDocumentName": "sample_upload_test.txt",
+        "sourceLocation": "Replaces CrPC Section 438 (Direction for grant of bail to person apprehending arrest)",
+        "isGroundTruth": true
+      }
+    ],
+    "parties": [],
+    "datesAndDeadlines": [],
+    "financialObligations": [],
+    "clausesAndClaims": [],
+    "legalReferences": [
+      {
+        "id": "fact-law-1",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal (Supreme Court of India)",
+        "sourceDocumentId": "doc-1792881188314-31",
+        "sourceDocumentName": "sample_upload_test.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-1",
+          "citationText": "(2020) 7 SCC 1",
+          "citationType": "Case Precedent",
+          "reporter": "Supreme Court Cases (SCC)",
+          "court": "Supreme Court of India",
+          "year": 2020,
+          "caseTitle": "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal",
+          "bench": "R.F. Nariman, S. Ravindra Bhat, V. Ramasubramanian JJ. (3-Judge Bench)",
+          "decisionDate": "2020-07-14",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Digital Supreme Court Reports (DigiSCR / SCI)",
+          "sourceUrl": "https://digiscr.sci.gov.in",
+          "whatWasChecked": "Decided by R.F. Nariman, S. Ravindra Bhat, V. Ramasubramanian JJ. (3-Judge Bench) on 2020-07-14. Citation (2020) 7 SCC 1 authenticated against Digital Supreme Court Reports (DigiSCR / SCI). Ratio decidendi verified.",
+          "whatRemainsUncertain": "None — binding landmark authority confirmed on official repository.",
+          "sourceExcerpt": "Certificate under Section 65B(4) is a mandatory condition precedent to the admissibility of evidence by way of electronic record when original device cannot be brought to court.",
+          "sourceLocation": "Line 3",
+          "documentExcerpt": "Citations: (2020) 7 SCC 1 and Section 482 BNSS 2023.",
+          "relatedStatutes": [
+            "Bharatiya Sakshya Adhiniyam, 2023 - Section 63",
+            "Indian Evidence Act, 1872 - Section 65B"
+          ]
+        }
+      },
+      {
+        "id": "fact-statute-2",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Nyaya Sanhita, 2023 - undefined",
+        "sourceDocumentId": "doc-1792881188314-31",
+        "sourceDocumentName": "sample_upload_test.txt",
+        "sourceLocation": "Statutory Reference",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-3",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Nagarik Suraksha Sanhita, 2023 - undefined",
+        "sourceDocumentId": "doc-1792881188314-31",
+        "sourceDocumentName": "sample_upload_test.txt",
+        "sourceLocation": "Replaces CrPC Section 438 (Direction for grant of bail to person apprehending arrest)",
+        "isGroundTruth": true
+      }
+    ],
+    "userId": "usr-legacy-demo"
+  },
+  {
+    "id": "doc-001",
+    "matterId": "mat-ind-001",
+    "title": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+    "originalName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+    "fileType": "text/plain",
+    "sizeBytes": 14250,
+    "wordCount": 1840,
+    "pageCount": 5,
+    "documentType": "Commercial Agreement",
+    "status": "Processed",
+    "uploadedAt": "2026-10-10T11:00:00.000Z",
+    "content": "ENTERPRISE CLOUD SERVICES AND DATA HOSTING AGREEMENT\nBETWEEN:\nNexus Infotech Private Limited, having registered office at Connaught Place, New Delhi (Plaintiff / Service Recipient)\nAND\nBharat Cloud Solutions LLP, having registered office at Cyber City, Gurugram (Defendant / Service Provider)\n\nCLAUSE 1: DEFINITIONS & SCOPE OF SERVICES\n1.1 The Service Provider agrees to provide high-availability distributed server infrastructure with guaranteed 99.98% uptime.\n1.2 Any downtime exceeding 15 consecutive minutes shall be categorized as a Severity 1 Critical Outage.\n\nCLAUSE 8: LIMITATION OF LIABILITY & INDEMNIFICATION\n8.1 The total aggregate liability of the Service Provider for any breach of this Agreement shall be capped at the total fees paid in the immediately preceding one (1) month.\n8.2 The Service Recipient agrees to unconditionally indemnify and hold harmless the Service Provider against any third-party claims, uncapped consequential damages, and data loss incidents.\n\nCLAUSE 14: DISPUTE RESOLUTION & ARBITRATION\n14.1 Any dispute arising out of or in connection with this agreement shall be referred to arbitration.\n14.2 The Service Provider shall have the unilateral right and sole discretion to appoint the Sole Arbitrator.\n14.3 The seat of arbitration shall be New Delhi, and the proceedings shall be governed by the Arbitration and Conciliation Act, 1996.\n\nCLAUSE 19: GOVERNING LAW AND EVIDENCE\n19.1 This agreement is governed by the laws of India.\n19.2 All system logs and server timestamps shall be authenticated in compliance with Section 63 of the Bharatiya Sakshya Adhiniyam, 2023.",
+    "extractedFacts": [
+      {
+        "id": "fact-claim-1",
+        "category": "Factual Claim / Clause",
+        "fact": "Indemnity / Liability Cap: CLAUSE 8: LIMITATION OF LIABILITY & INDEMNIFICATION...",
+        "rawExcerpt": "CLAUSE 8: LIMITATION OF LIABILITY & INDEMNIFICATION",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 11)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-2",
+        "category": "Factual Claim / Clause",
+        "fact": "Breach / Default Allegation: 8.1 The total aggregate liability of the Service Provider for any breach of this Agreement...",
+        "rawExcerpt": "8.1 The total aggregate liability of the Service Provider for any breach of this Agreement shall be capped at the total fees paid in the immediately preceding one (1) month.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 12)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-3",
+        "category": "Factual Claim / Clause",
+        "fact": "Indemnity / Liability Cap: 8.2 The Service Recipient agrees to unconditionally indemnify and hold harmless the Servic...",
+        "rawExcerpt": "8.2 The Service Recipient agrees to unconditionally indemnify and hold harmless the Service Provider against any third-party claims, uncapped consequential damages, and data los...",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 13)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-4",
+        "category": "Factual Claim / Clause",
+        "fact": "Arbitration / Dispute Clause: CLAUSE 14: DISPUTE RESOLUTION & ARBITRATION...",
+        "rawExcerpt": "CLAUSE 14: DISPUTE RESOLUTION & ARBITRATION",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 15)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-5",
+        "category": "Factual Claim / Clause",
+        "fact": "Arbitration / Dispute Clause: 14.1 Any dispute arising out of or in connection with this agreement shall be referred to ...",
+        "rawExcerpt": "14.1 Any dispute arising out of or in connection with this agreement shall be referred to arbitration.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 16)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-6",
+        "category": "Factual Claim / Clause",
+        "fact": "Arbitration / Dispute Clause: 14.2 The Service Provider shall have the unilateral right and sole discretion to appoint t...",
+        "rawExcerpt": "14.2 The Service Provider shall have the unilateral right and sole discretion to appoint the Sole Arbitrator.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 17)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-7",
+        "category": "Factual Claim / Clause",
+        "fact": "Arbitration / Dispute Clause: 14.3 The seat of arbitration shall be New Delhi, and the proceedings shall be governed by ...",
+        "rawExcerpt": "14.3 The seat of arbitration shall be New Delhi, and the proceedings shall be governed by the Arbitration and Conciliation Act, 1996.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 18)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-8",
+        "category": "Factual Claim / Clause",
+        "fact": "Jurisdiction & Governing Law: CLAUSE 19: GOVERNING LAW AND EVIDENCE...",
+        "rawExcerpt": "CLAUSE 19: GOVERNING LAW AND EVIDENCE",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 20)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-9",
+        "category": "Factual Claim / Clause",
+        "fact": "Admissibility & Electronic Evidence: 19.2 All system logs and server timestamps shall be authenticated in compliance with Secti...",
+        "rawExcerpt": "19.2 All system logs and server timestamps shall be authenticated in compliance with Section 63 of the Bharatiya Sakshya Adhiniyam, 2023.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 22)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-1",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Sakshya Adhiniyam, 2023 - undefined",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "Replaces IEA Section 65B (Admissibility of electronic records)",
+        "isGroundTruth": true
+      }
+    ],
+    "parties": [],
+    "datesAndDeadlines": [],
+    "financialObligations": [],
+    "clausesAndClaims": [
+      {
+        "id": "fact-claim-1",
+        "category": "Factual Claim / Clause",
+        "fact": "Indemnity / Liability Cap: CLAUSE 8: LIMITATION OF LIABILITY & INDEMNIFICATION...",
+        "rawExcerpt": "CLAUSE 8: LIMITATION OF LIABILITY & INDEMNIFICATION",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 11)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-2",
+        "category": "Factual Claim / Clause",
+        "fact": "Breach / Default Allegation: 8.1 The total aggregate liability of the Service Provider for any breach of this Agreement...",
+        "rawExcerpt": "8.1 The total aggregate liability of the Service Provider for any breach of this Agreement shall be capped at the total fees paid in the immediately preceding one (1) month.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 12)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-3",
+        "category": "Factual Claim / Clause",
+        "fact": "Indemnity / Liability Cap: 8.2 The Service Recipient agrees to unconditionally indemnify and hold harmless the Servic...",
+        "rawExcerpt": "8.2 The Service Recipient agrees to unconditionally indemnify and hold harmless the Service Provider against any third-party claims, uncapped consequential damages, and data los...",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 13)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-4",
+        "category": "Factual Claim / Clause",
+        "fact": "Arbitration / Dispute Clause: CLAUSE 14: DISPUTE RESOLUTION & ARBITRATION...",
+        "rawExcerpt": "CLAUSE 14: DISPUTE RESOLUTION & ARBITRATION",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 15)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-5",
+        "category": "Factual Claim / Clause",
+        "fact": "Arbitration / Dispute Clause: 14.1 Any dispute arising out of or in connection with this agreement shall be referred to ...",
+        "rawExcerpt": "14.1 Any dispute arising out of or in connection with this agreement shall be referred to arbitration.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 16)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-6",
+        "category": "Factual Claim / Clause",
+        "fact": "Arbitration / Dispute Clause: 14.2 The Service Provider shall have the unilateral right and sole discretion to appoint t...",
+        "rawExcerpt": "14.2 The Service Provider shall have the unilateral right and sole discretion to appoint the Sole Arbitrator.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 17)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-7",
+        "category": "Factual Claim / Clause",
+        "fact": "Arbitration / Dispute Clause: 14.3 The seat of arbitration shall be New Delhi, and the proceedings shall be governed by ...",
+        "rawExcerpt": "14.3 The seat of arbitration shall be New Delhi, and the proceedings shall be governed by the Arbitration and Conciliation Act, 1996.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 18)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-8",
+        "category": "Factual Claim / Clause",
+        "fact": "Jurisdiction & Governing Law: CLAUSE 19: GOVERNING LAW AND EVIDENCE...",
+        "rawExcerpt": "CLAUSE 19: GOVERNING LAW AND EVIDENCE",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 20)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-claim-9",
+        "category": "Factual Claim / Clause",
+        "fact": "Admissibility & Electronic Evidence: 19.2 All system logs and server timestamps shall be authenticated in compliance with Secti...",
+        "rawExcerpt": "19.2 All system logs and server timestamps shall be authenticated in compliance with Section 63 of the Bharatiya Sakshya Adhiniyam, 2023.",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "CLAUSE 19: GOVERNING LAW AND EVIDENCE (Line 22)",
+        "isGroundTruth": true
+      }
+    ],
+    "legalReferences": [
+      {
+        "id": "fact-statute-1",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Sakshya Adhiniyam, 2023 - undefined",
+        "sourceDocumentId": "doc-001",
+        "sourceDocumentName": "Cloud_Services_Agreement_Nexus_Bharat.txt",
+        "sourceLocation": "Replaces IEA Section 65B (Admissibility of electronic records)",
+        "isGroundTruth": true
+      }
+    ],
+    "userId": "usr-legacy-demo"
+  },
+  {
+    "id": "doc-002",
+    "matterId": "mat-ind-002",
+    "title": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+    "originalName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+    "fileType": "text/plain",
+    "sizeBytes": 11200,
+    "wordCount": 1420,
+    "pageCount": 4,
+    "documentType": "Anticipatory Bail Application",
+    "status": "Processed",
+    "uploadedAt": "2026-10-16T09:30:00.000Z",
+    "content": "IN THE HIGH COURT OF JUDICATURE AT BOMBAY\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL ANTICIPATORY BAIL APPLICATION NO. 1984 OF 2026\n\nIN THE MATTER OF:\nMr. Vikramaditya Singhania\nResiding at Altamount Road, Mumbai\n...APPLICANT\n\nVERSUS\n\nState of Maharashtra & Anr.\n...RESPONDENT\n\nAPPLICATION UNDER SECTION 482 OF THE BHARATIYA NAGARIK SURAKSHA SANHITA, 2023 (ERSTWHILE SECTION 438 OF THE CODE OF CRIMINAL PROCEDURE, 1973).\n\n1. That the Applicant has genuine apprehension of arrest in C.R. No. 142/2026 registered at Cyber Crime Police Station under Section 318 and Section 316 of the Bharatiya Nyaya Sanhita, 2023.\n2. That the dispute arises out of contractual disagreements regarding cryptocurrency escrow reconciliation.\n3. That the Applicant relies upon 'Satender Kumar Antil v. CBI' (2022) 10 SCC 51 and 'Arnesh Kumar v. State of Bihar' (2014) 8 SCC 273.\n4. That the applicant has submitted a Certificate under Section 63 of Bharatiya Sakshya Adhiniyam, 2023 verifying all digital wallet transactions.",
+    "extractedFacts": [
+      {
+        "id": "fact-claim-1",
+        "category": "Factual Claim / Clause",
+        "fact": "Admissibility & Electronic Evidence: 4. That the applicant has submitted a Certificate under Section 63 of Bharatiya Sakshya Ad...",
+        "rawExcerpt": "4. That the applicant has submitted a Certificate under Section 63 of Bharatiya Sakshya Adhiniyam, 2023 verifying all digital wallet transactions.",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "4. That the applicant has submitted a Certificate  (Line 20)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-law-1",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Satender Kumar Antil v. Central Bureau of Investigation (Supreme Court of India)",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-1",
+          "citationText": "(2022) 10 SCC 51",
+          "citationType": "Case Precedent",
+          "reporter": "Supreme Court Cases (SCC)",
+          "court": "Supreme Court of India",
+          "year": 2022,
+          "caseTitle": "Satender Kumar Antil v. Central Bureau of Investigation",
+          "bench": "Sanjay Kishan Kaul, M.M. Sundresh JJ.",
+          "decisionDate": "2022-07-11",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Digital Supreme Court Reports (DigiSCR / SCI)",
+          "sourceUrl": "https://digiscr.sci.gov.in",
+          "whatWasChecked": "Decided by Sanjay Kishan Kaul, M.M. Sundresh JJ. on 2022-07-11. Citation (2022) 10 SCC 51 authenticated against Digital Supreme Court Reports (DigiSCR / SCI). Ratio decidendi verified.",
+          "whatRemainsUncertain": "None — binding landmark authority confirmed on official repository.",
+          "sourceExcerpt": "Strict guidelines on arrest without warrant under Sec 41/41A CrPC (now BNSS 35). Courts must strictly avoid unnecessary detention where accused cooperates and chargesheet is filed.",
+          "sourceLocation": "Line 19",
+          "documentExcerpt": "3. That the Applicant relies upon 'Satender Kumar Antil v. CBI' (2022) 10 SCC 51 and 'Arnesh Kumar v. State of Bihar' (2014) 8 SCC 273.",
+          "relatedStatutes": [
+            "Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35, 480, 482",
+            "Code of Criminal Procedure, 1973 - Section 41, 438"
+          ]
+        }
+      },
+      {
+        "id": "fact-law-2",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Arnesh Kumar v. State of Bihar (Supreme Court of India)",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-2",
+          "citationText": "(2014) 8 SCC 273",
+          "citationType": "Case Precedent",
+          "reporter": "Supreme Court Cases (SCC)",
+          "court": "Supreme Court of India",
+          "year": 2014,
+          "caseTitle": "Arnesh Kumar v. State of Bihar",
+          "bench": "Chandramauli Kr. Prasad, Pinaki Chandra Ghose JJ.",
+          "decisionDate": "2014-07-02",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Supreme Court of India Judgments Repository",
+          "sourceUrl": "https://main.sci.gov.in",
+          "whatWasChecked": "Decided by Chandramauli Kr. Prasad, Pinaki Chandra Ghose JJ. on 2014-07-02. Citation (2014) 8 SCC 273 authenticated against Supreme Court of India Judgments Repository. Ratio decidendi verified.",
+          "whatRemainsUncertain": "None — binding landmark authority confirmed on official repository.",
+          "sourceExcerpt": "Police officers cannot arrest accused merely because non-bailable offence punishable up to 7 years is alleged; objective notice of appearance must be served first.",
+          "sourceLocation": "Line 19",
+          "documentExcerpt": "3. That the Applicant relies upon 'Satender Kumar Antil v. CBI' (2022) 10 SCC 51 and 'Arnesh Kumar v. State of Bihar' (2014) 8 SCC 273.",
+          "relatedStatutes": [
+            "Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35",
+            "Code of Criminal Procedure, 1973 - Section 41A"
+          ]
+        }
+      },
+      {
+        "id": "fact-law-3",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Satender Kumar Antil v. Central Bureau of Investigation (Supreme Court of India)",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-3",
+          "citationText": "Satender Kumar Antil v. Central Bureau of Investigation [(2022) 10 SCC 51]",
+          "rawMatch": "Satender Kumar Antil v. CBI",
+          "citationType": "Case Precedent",
+          "reporter": "(2022) 10 SCC 51",
+          "court": "Supreme Court of India",
+          "year": 2022,
+          "caseTitle": "Satender Kumar Antil v. Central Bureau of Investigation",
+          "bench": "Sanjay Kishan Kaul, M.M. Sundresh JJ.",
+          "decisionDate": "2022-07-11",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Digital Supreme Court Reports (DigiSCR / SCI)",
+          "sourceUrl": "https://digiscr.sci.gov.in",
+          "whatWasChecked": "Named judgment verified on Digital Supreme Court Reports (DigiSCR / SCI). Validated bench (Sanjay Kishan Kaul, M.M. Sundresh JJ.) and decision date (2022-07-11).",
+          "whatRemainsUncertain": "Factual parity between cited dispute and precedent facts must be evaluated by advocate.",
+          "sourceExcerpt": "Strict guidelines on arrest without warrant under Sec 41/41A CrPC (now BNSS 35). Courts must strictly avoid unnecessary detention where accused cooperates and chargesheet is filed.",
+          "sourceLocation": "Line 19",
+          "documentExcerpt": "3. That the Applicant relies upon 'Satender Kumar Antil v. CBI' (2022) 10 SCC 51 and 'Arnesh Kumar v. State of Bihar' (2014) 8 SCC 273.",
+          "relatedStatutes": [
+            "Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35, 480, 482",
+            "Code of Criminal Procedure, 1973 - Section 41, 438"
+          ]
+        }
+      },
+      {
+        "id": "fact-law-4",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Arnesh Kumar v. State of Bihar (Supreme Court of India)",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-4",
+          "citationText": "Arnesh Kumar v. State of Bihar [(2014) 8 SCC 273]",
+          "rawMatch": "Arnesh Kumar v. State of Bihar",
+          "citationType": "Case Precedent",
+          "reporter": "(2014) 8 SCC 273",
+          "court": "Supreme Court of India",
+          "year": 2014,
+          "caseTitle": "Arnesh Kumar v. State of Bihar",
+          "bench": "Chandramauli Kr. Prasad, Pinaki Chandra Ghose JJ.",
+          "decisionDate": "2014-07-02",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Supreme Court of India Judgments Repository",
+          "sourceUrl": "https://main.sci.gov.in",
+          "whatWasChecked": "Named judgment verified on Supreme Court of India Judgments Repository. Validated bench (Chandramauli Kr. Prasad, Pinaki Chandra Ghose JJ.) and decision date (2014-07-02).",
+          "whatRemainsUncertain": "Factual parity between cited dispute and precedent facts must be evaluated by advocate.",
+          "sourceExcerpt": "Police officers cannot arrest accused merely because non-bailable offence punishable up to 7 years is alleged; objective notice of appearance must be served first.",
+          "sourceLocation": "Line 19",
+          "documentExcerpt": "3. That the Applicant relies upon 'Satender Kumar Antil v. CBI' (2022) 10 SCC 51 and 'Arnesh Kumar v. State of Bihar' (2014) 8 SCC 273.",
+          "relatedStatutes": [
+            "Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35",
+            "Code of Criminal Procedure, 1973 - Section 41A"
+          ]
+        }
+      },
+      {
+        "id": "fact-statute-5",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Sakshya Adhiniyam, 2023 - undefined",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Replaces IEA Section 65B (Admissibility of electronic records)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-6",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Nyaya Sanhita, 2023 - undefined",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Replaces IPC Section 405 / 406 (Criminal breach of trust)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-7",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Nagarik Suraksha Sanhita, 2023 - undefined",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Replaces CrPC Section 438 (Direction for grant of bail to person apprehending arrest)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-8",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Code of Criminal Procedure, 1973 - undefined",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Superseded by BNSS Section 482 (Direction for grant of bail to person apprehending arrest (Anticipatory Bail)) for proceedings post 1 July 2024",
+        "isGroundTruth": true
+      }
+    ],
+    "parties": [],
+    "datesAndDeadlines": [],
+    "financialObligations": [],
+    "clausesAndClaims": [
+      {
+        "id": "fact-claim-1",
+        "category": "Factual Claim / Clause",
+        "fact": "Admissibility & Electronic Evidence: 4. That the applicant has submitted a Certificate under Section 63 of Bharatiya Sakshya Ad...",
+        "rawExcerpt": "4. That the applicant has submitted a Certificate under Section 63 of Bharatiya Sakshya Adhiniyam, 2023 verifying all digital wallet transactions.",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "4. That the applicant has submitted a Certificate  (Line 20)",
+        "isGroundTruth": true
+      }
+    ],
+    "legalReferences": [
+      {
+        "id": "fact-law-1",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Satender Kumar Antil v. Central Bureau of Investigation (Supreme Court of India)",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-1",
+          "citationText": "(2022) 10 SCC 51",
+          "citationType": "Case Precedent",
+          "reporter": "Supreme Court Cases (SCC)",
+          "court": "Supreme Court of India",
+          "year": 2022,
+          "caseTitle": "Satender Kumar Antil v. Central Bureau of Investigation",
+          "bench": "Sanjay Kishan Kaul, M.M. Sundresh JJ.",
+          "decisionDate": "2022-07-11",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Digital Supreme Court Reports (DigiSCR / SCI)",
+          "sourceUrl": "https://digiscr.sci.gov.in",
+          "whatWasChecked": "Decided by Sanjay Kishan Kaul, M.M. Sundresh JJ. on 2022-07-11. Citation (2022) 10 SCC 51 authenticated against Digital Supreme Court Reports (DigiSCR / SCI). Ratio decidendi verified.",
+          "whatRemainsUncertain": "None — binding landmark authority confirmed on official repository.",
+          "sourceExcerpt": "Strict guidelines on arrest without warrant under Sec 41/41A CrPC (now BNSS 35). Courts must strictly avoid unnecessary detention where accused cooperates and chargesheet is filed.",
+          "sourceLocation": "Line 19",
+          "documentExcerpt": "3. That the Applicant relies upon 'Satender Kumar Antil v. CBI' (2022) 10 SCC 51 and 'Arnesh Kumar v. State of Bihar' (2014) 8 SCC 273.",
+          "relatedStatutes": [
+            "Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35, 480, 482",
+            "Code of Criminal Procedure, 1973 - Section 41, 438"
+          ]
+        }
+      },
+      {
+        "id": "fact-law-2",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Arnesh Kumar v. State of Bihar (Supreme Court of India)",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-2",
+          "citationText": "(2014) 8 SCC 273",
+          "citationType": "Case Precedent",
+          "reporter": "Supreme Court Cases (SCC)",
+          "court": "Supreme Court of India",
+          "year": 2014,
+          "caseTitle": "Arnesh Kumar v. State of Bihar",
+          "bench": "Chandramauli Kr. Prasad, Pinaki Chandra Ghose JJ.",
+          "decisionDate": "2014-07-02",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Supreme Court of India Judgments Repository",
+          "sourceUrl": "https://main.sci.gov.in",
+          "whatWasChecked": "Decided by Chandramauli Kr. Prasad, Pinaki Chandra Ghose JJ. on 2014-07-02. Citation (2014) 8 SCC 273 authenticated against Supreme Court of India Judgments Repository. Ratio decidendi verified.",
+          "whatRemainsUncertain": "None — binding landmark authority confirmed on official repository.",
+          "sourceExcerpt": "Police officers cannot arrest accused merely because non-bailable offence punishable up to 7 years is alleged; objective notice of appearance must be served first.",
+          "sourceLocation": "Line 19",
+          "documentExcerpt": "3. That the Applicant relies upon 'Satender Kumar Antil v. CBI' (2022) 10 SCC 51 and 'Arnesh Kumar v. State of Bihar' (2014) 8 SCC 273.",
+          "relatedStatutes": [
+            "Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35",
+            "Code of Criminal Procedure, 1973 - Section 41A"
+          ]
+        }
+      },
+      {
+        "id": "fact-law-3",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Satender Kumar Antil v. Central Bureau of Investigation (Supreme Court of India)",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-3",
+          "citationText": "Satender Kumar Antil v. Central Bureau of Investigation [(2022) 10 SCC 51]",
+          "rawMatch": "Satender Kumar Antil v. CBI",
+          "citationType": "Case Precedent",
+          "reporter": "(2022) 10 SCC 51",
+          "court": "Supreme Court of India",
+          "year": 2022,
+          "caseTitle": "Satender Kumar Antil v. Central Bureau of Investigation",
+          "bench": "Sanjay Kishan Kaul, M.M. Sundresh JJ.",
+          "decisionDate": "2022-07-11",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Digital Supreme Court Reports (DigiSCR / SCI)",
+          "sourceUrl": "https://digiscr.sci.gov.in",
+          "whatWasChecked": "Named judgment verified on Digital Supreme Court Reports (DigiSCR / SCI). Validated bench (Sanjay Kishan Kaul, M.M. Sundresh JJ.) and decision date (2022-07-11).",
+          "whatRemainsUncertain": "Factual parity between cited dispute and precedent facts must be evaluated by advocate.",
+          "sourceExcerpt": "Strict guidelines on arrest without warrant under Sec 41/41A CrPC (now BNSS 35). Courts must strictly avoid unnecessary detention where accused cooperates and chargesheet is filed.",
+          "sourceLocation": "Line 19",
+          "documentExcerpt": "3. That the Applicant relies upon 'Satender Kumar Antil v. CBI' (2022) 10 SCC 51 and 'Arnesh Kumar v. State of Bihar' (2014) 8 SCC 273.",
+          "relatedStatutes": [
+            "Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35, 480, 482",
+            "Code of Criminal Procedure, 1973 - Section 41, 438"
+          ]
+        }
+      },
+      {
+        "id": "fact-law-4",
+        "category": "Legal Reference",
+        "fact": "Case Law Precedent: Arnesh Kumar v. State of Bihar (Supreme Court of India)",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Extracted from text citations",
+        "isGroundTruth": true,
+        "precedentDetails": {
+          "id": "case-cit-4",
+          "citationText": "Arnesh Kumar v. State of Bihar [(2014) 8 SCC 273]",
+          "rawMatch": "Arnesh Kumar v. State of Bihar",
+          "citationType": "Case Precedent",
+          "reporter": "(2014) 8 SCC 273",
+          "court": "Supreme Court of India",
+          "year": 2014,
+          "caseTitle": "Arnesh Kumar v. State of Bihar",
+          "bench": "Chandramauli Kr. Prasad, Pinaki Chandra Ghose JJ.",
+          "decisionDate": "2014-07-02",
+          "status": "Verified",
+          "statusBadge": "badge-success",
+          "source": "Supreme Court of India Judgments Repository",
+          "sourceUrl": "https://main.sci.gov.in",
+          "whatWasChecked": "Named judgment verified on Supreme Court of India Judgments Repository. Validated bench (Chandramauli Kr. Prasad, Pinaki Chandra Ghose JJ.) and decision date (2014-07-02).",
+          "whatRemainsUncertain": "Factual parity between cited dispute and precedent facts must be evaluated by advocate.",
+          "sourceExcerpt": "Police officers cannot arrest accused merely because non-bailable offence punishable up to 7 years is alleged; objective notice of appearance must be served first.",
+          "sourceLocation": "Line 19",
+          "documentExcerpt": "3. That the Applicant relies upon 'Satender Kumar Antil v. CBI' (2022) 10 SCC 51 and 'Arnesh Kumar v. State of Bihar' (2014) 8 SCC 273.",
+          "relatedStatutes": [
+            "Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35",
+            "Code of Criminal Procedure, 1973 - Section 41A"
+          ]
+        }
+      },
+      {
+        "id": "fact-statute-5",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Sakshya Adhiniyam, 2023 - undefined",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Replaces IEA Section 65B (Admissibility of electronic records)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-6",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Nyaya Sanhita, 2023 - undefined",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Replaces IPC Section 405 / 406 (Criminal breach of trust)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-7",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Bharatiya Nagarik Suraksha Sanhita, 2023 - undefined",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Replaces CrPC Section 438 (Direction for grant of bail to person apprehending arrest)",
+        "isGroundTruth": true
+      },
+      {
+        "id": "fact-statute-8",
+        "category": "Legal Reference",
+        "fact": "Statutory Provision: Code of Criminal Procedure, 1973 - undefined",
+        "sourceDocumentId": "doc-002",
+        "sourceDocumentName": "Anticipatory_Bail_Petition_Vikramaditya.txt",
+        "sourceLocation": "Superseded by BNSS Section 482 (Direction for grant of bail to person apprehending arrest (Anticipatory Bail)) for proceedings post 1 July 2024",
+        "isGroundTruth": true
+      }
+    ],
+    "userId": "usr-legacy-demo"
+  }
+]

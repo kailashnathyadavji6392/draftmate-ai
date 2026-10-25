@@ -1,0 +1,32 @@
+[
+  {
+    "id": "redline-1792903697527-335",
+    "userId": "usr-1792903697004-655",
+    "title": "User A Redline Comparison Review",
+    "matterId": "mat-1792903697464-770",
+    "originalText": "Original clause text",
+    "revisedText": "Revised clause text",
+    "summary": {},
+    "changes": [],
+    "decisions": {},
+    "finalDocumentText": "",
+    "auditTrail": [],
+    "createdAt": "2026-10-25T04:48:17.527Z",
+    "updatedAt": "2026-10-25T04:48:17.527Z"
+  },
+  {
+    "id": "redline-1792903580638-908",
+    "userId": "usr-1792903580217-206",
+    "title": "User A Redline Comparison Review",
+    "matterId": "mat-1792903580566-610",
+    "originalText": "Original clause text",
+    "revisedText": "Revised clause text",
+    "summary": {},
+    "changes": [],
+    "decisions": {},
+    "finalDocumentText": "",
+    "auditTrail": [],
+    "createdAt": "2026-10-25T04:46:20.638Z",
+    "updatedAt": "2026-10-25T04:46:20.638Z"
+  }
+]

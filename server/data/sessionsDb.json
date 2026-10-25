@@ -1,0 +1,102 @@
+[
+  {
+    "id": "sess-1792910795350-922185fd1326f6d7",
+    "userId": "usr-1792910795346-225",
+    "createdAt": "2026-10-25T06:46:35.351Z",
+    "expiresAt": "2026-11-01T06:46:35.351Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:46:35.351Z"
+  },
+  {
+    "id": "sess-1792910794975-a4327a299b121352",
+    "userId": "usr-1792910794971-792",
+    "createdAt": "2026-10-25T06:46:34.976Z",
+    "expiresAt": "2026-11-01T06:46:34.976Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:46:34.976Z"
+  },
+  {
+    "id": "sess-1792910697294-e7df5a127a3f7543",
+    "userId": "usr-1792910697291-296",
+    "createdAt": "2026-10-25T06:44:57.294Z",
+    "expiresAt": "2026-11-01T06:44:57.294Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:44:57.294Z"
+  },
+  {
+    "id": "sess-1792910696959-49fdc3d564285f80",
+    "userId": "usr-1792910696951-255",
+    "createdAt": "2026-10-25T06:44:56.959Z",
+    "expiresAt": "2026-11-01T06:44:56.959Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:44:56.959Z"
+  },
+  {
+    "id": "sess-1792909732954-ed55c1282255f7a5",
+    "userId": "usr-1792909732948-450",
+    "createdAt": "2026-10-25T06:28:52.954Z",
+    "expiresAt": "2026-11-01T06:28:52.954Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:28:52.954Z"
+  },
+  {
+    "id": "sess-1792909732625-fd4a2d9bbd88c547",
+    "userId": "usr-1792909732622-987",
+    "createdAt": "2026-10-25T06:28:52.625Z",
+    "expiresAt": "2026-11-01T06:28:52.625Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:28:52.625Z"
+  },
+  {
+    "id": "sess-1792909275141-bb959d899ee8f2c2",
+    "userId": "usr-1792909275139-407",
+    "createdAt": "2026-10-25T06:21:15.141Z",
+    "expiresAt": "2026-11-01T06:21:15.141Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:21:15.141Z"
+  },
+  {
+    "id": "sess-1792909274836-3e4bc2965bf27e03",
+    "userId": "usr-1792909274832-493",
+    "createdAt": "2026-10-25T06:21:14.836Z",
+    "expiresAt": "2026-11-01T06:21:14.836Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:21:14.836Z"
+  },
+  {
+    "id": "sess-1792909225088-96a24bb3b7483c88",
+    "userId": "usr-1792909225085-644",
+    "createdAt": "2026-10-25T06:20:25.088Z",
+    "expiresAt": "2026-11-01T06:20:25.088Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:20:25.088Z"
+  },
+  {
+    "id": "sess-1792909224700-7f1995e488e0d0b1",
+    "userId": "usr-1792909224696-103",
+    "createdAt": "2026-10-25T06:20:24.701Z",
+    "expiresAt": "2026-11-01T06:20:24.701Z",
+    "isValid": true,
+    "ip": "::1",
+    "userAgent": "node",
+    "updatedAt": "2026-10-25T06:20:24.701Z"
+  }
+]

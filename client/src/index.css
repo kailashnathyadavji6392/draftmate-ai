@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --bg-primary: #060A12;
+  --bg-secondary: #0A101D;
+  --bg-surface: #0F172A;
+  --bg-elevated: #162035;
+  --bg-card: #0D1424;
+  --bg-hover: #19243C;
+
+  --border-subtle: rgba(212, 175, 55, 0.12);
+  --border-gold: rgba(212, 175, 55, 0.35);
+  --border-active: #D4AF37;
+  --border-dark: rgba(255, 255, 255, 0.08);
+
+  --gold-primary: #D4AF37;
+  --gold-light: #F3E5AB;
+  --gold-hover: #E6C655;
+  --gold-muted: #8E7A32;
+  --gold-gradient: linear-gradient(135deg, #ECC86A 0%, #D4AF37 50%, #9B7923 100%);
+  --gold-glow: 0 0 15px rgba(212, 175, 55, 0.25);
+
+  --text-primary: #F8FAFC;
+  --text-secondary: #94A3B8;
+  --text-muted: #64748B;
+  --text-gold: #ECC86A;
+
+  --success: #10B981;
+  --success-bg: rgba(16, 185, 129, 0.12);
+  --danger: #EF4444;
+  --danger-bg: rgba(239, 68, 68, 0.12);
+  --warning: #F59E0B;
+  --warning-bg: rgba(245, 158, 11, 0.12);
+  --info: #38BDF8;
+  --info-bg: rgba(56, 189, 248, 0.12);
+
+  --font-serif: 'Cinzel', serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.5;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.25);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(212, 175, 55, 0.5);
+}
+
+/* Typography Helpers */
+.font-serif {
+  font-family: var(--font-serif);
+  letter-spacing: 0.05em;
+}
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.55rem 1.1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+  outline: none;
+  white-space: nowrap;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.btn-gold {
+  background: var(--gold-gradient);
+  color: #0B1120;
+  font-weight: 600;
+  border-color: #F3E5AB;
+  box-shadow: 0 2px 8px rgba(212, 175, 55, 0.25);
+}
+
+.btn-gold:hover:not(:disabled) {
+  filter: brightness(1.1);
+  box-shadow: 0 4px 14px rgba(212, 175, 55, 0.4);
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+  border: 1px solid var(--border-subtle);
+}
+
+.btn-secondary:hover:not(:disabled) {
+  background: var(--bg-hover);
+  border-color: var(--gold-primary);
+  color: var(--gold-light);
+}
+
+.btn-outline-gold {
+  background: transparent;
+  color: var(--gold-light);
+  border: 1px solid var(--gold-muted);
+}
+
+.btn-outline-gold:hover:not(:disabled) {
+  background: rgba(212, 175, 55, 0.1);
+  border-color: var(--gold-primary);
+  color: #FFF;
+}
+
+.btn-danger {
+  background: var(--danger-bg);
+  color: #F87171;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.btn-danger:hover:not(:disabled) {
+  background: rgba(239, 68, 68, 0.2);
+}
+
+/* Cards & Containers */
+.legal-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 1.25rem;
+  position: relative;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.legal-card:hover {
+  border-color: rgba(212, 175, 55, 0.25);
+}
+
+.legal-card-gold {
+  background: linear-gradient(180deg, rgba(212, 175, 55, 0.05) 0%, rgba(13, 20, 36, 0.95) 100%);
+  border: 1px solid var(--border-gold);
+}
+
+/* Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.badge-gold {
+  background: rgba(212, 175, 55, 0.12);
+  color: var(--gold-light);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+}
+
+.badge-success {
+  background: var(--success-bg);
+  color: #34D399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.badge-danger {
+  background: var(--danger-bg);
+  color: #F87171;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.badge-warning {
+  background: var(--warning-bg);
+  color: #FBBF24;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.badge-info {
+  background: var(--info-bg);
+  color: #7DD3FC;
+  border: 1px solid rgba(56, 189, 248, 0.3);
+}
+
+/* Inputs & Form Controls */
+.legal-input, .legal-select, .legal-textarea {
+  width: 100%;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-primary);
+  border-radius: 6px;
+  padding: 0.6rem 0.85rem;
+  font-size: 0.875rem;
+  font-family: inherit;
+  transition: all 0.2s ease;
+  outline: none;
+}
+
+.legal-input:focus, .legal-select:focus, .legal-textarea:focus {
+  border-color: var(--gold-primary);
+  box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.15);
+}
+
+/* Redline highlight styling */
+.redline-insert {
+  background-color: rgba(16, 185, 129, 0.18);
+  color: #6EE7B7;
+  border-left: 3px solid #10B981;
+  padding: 0.2rem 0.4rem;
+  margin: 0.1rem 0;
+}
+
+.redline-delete {
+  background-color: rgba(239, 68, 68, 0.18);
+  color: #FCA5A5;
+  text-decoration: line-through;
+  border-left: 3px solid #EF4444;
+  padding: 0.2rem 0.4rem;
+  margin: 0.1rem 0;
+}
+
+.redline-modify {
+  background-color: rgba(245, 158, 11, 0.14);
+  color: #FDE68A;
+  border-left: 3px solid #F59E0B;
+  padding: 0.2rem 0.4rem;
+  margin: 0.1rem 0;
+}
+
+/* Toast notifications */
+.toast-container {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.toast {
+  background: #0F172A;
+  color: #F8FAFC;
+  border: 1px solid var(--border-gold);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  min-width: 280px;
+  animation: slideIn 0.2s ease;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

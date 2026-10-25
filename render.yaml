@@ -1,0 +1,36 @@
+# render.yaml — Render Infrastructure as Code Blueprint
+# DraftMate Evidence Intelligence: Unified Full-Stack Production Deployment with Persistent PostgreSQL Storage
+
+databases:
+  - name: draftmate-postgres
+    plan: free # Or upgrade to starter for permanent retention beyond 90 days
+    databaseName: draftmate
+    user: draftmate_user
+    region: singapore # Optimized low-latency region for Indian judicial workflows
+
+services:
+  - type: web
+    name: draftmate-ai
+    env: node
+    plan: free # Or starter
+    region: singapore
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5001
+      - key: DATABASE_URL
+        fromDatabase:
+          name: draftmate-postgres
+          property: connectionString
+      - key: JWT_SECRET
+        generateValue: true # Render automatically generates a 256-bit cryptographically secure string
+      - key: JWT_EXPIRES_IN
+        value: 7d
+      - key: GEMINI_API_KEY
+        sync: false # Enter in Render Dashboard under Environment Secrets
+      - key: CORS_ORIGIN
+        value: "" # Leave empty for unified single-origin deployment

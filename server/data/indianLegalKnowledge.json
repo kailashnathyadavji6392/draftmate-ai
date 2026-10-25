@@ -1,0 +1,459 @@
+{
+  "centralStatutes": [
+    {
+      "actCode": "ICA",
+      "actTitle": "Indian Contract Act, 1872",
+      "actNumber": "Act No. 9 of 1872",
+      "year": 1872,
+      "enactmentDate": "1872-04-25",
+      "ministry": "Ministry of Law and Justice",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/2187",
+      "status": "Active Central Enactment",
+      "keySections": [
+        { "section": "Section 10", "title": "What agreements are contracts", "summary": "All agreements are contracts if made by free consent, competent parties, lawful consideration and lawful object." },
+        { "section": "Section 27", "title": "Agreement in restraint of trade, void", "summary": "Every agreement by which anyone is restrained from exercising a lawful profession, trade or business is to that extent void (Percept D'Mark standard)." },
+        { "section": "Section 28", "title": "Agreements in restraint of legal proceedings, void", "summary": "Restricting party absolutely from enforcing rights or limiting time within which he may enforce rights is void." },
+        { "section": "Section 73", "title": "Compensation for loss or damage caused by breach of contract", "summary": "Party who suffers from breach entitled to compensation for proximate losses; remote and indirect loss not recoverable unless specifically contemplated." },
+        { "section": "Section 74", "title": "Compensation for breach of contract where penalty stipulated for", "summary": "Court awards reasonable compensation not exceeding amount named; punitive penalty clauses unenforceable (Fateh Chand standard)." }
+      ]
+    },
+    {
+      "actCode": "ARB_ACT",
+      "actTitle": "Arbitration and Conciliation Act, 1996",
+      "actNumber": "Act No. 26 of 1996",
+      "year": 1996,
+      "enactmentDate": "1996-08-16",
+      "ministry": "Ministry of Law and Justice",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/1978",
+      "status": "Active Central Enactment (Amended 2015, 2019, 2021)",
+      "keySections": [
+        { "section": "Section 8", "title": "Power to refer parties to arbitration where there is an arbitration agreement", "summary": "Judicial authority shall refer parties to arbitration unless prima facie no valid arbitration agreement exists." },
+        { "section": "Section 9", "title": "Interim measures, etc. by Court", "summary": "Party may apply to a Court for interim preservation of goods, amounts, or interim injunctions before or during arbitral proceedings." },
+        { "section": "Section 11", "title": "Appointment of arbitrators", "summary": "High Court / Supreme Court appointment of arbitrators upon failure of agreed procedure." },
+        { "section": "Section 12(5)", "title": "Grounds for challenge - Ineligibility under Seventh Schedule", "summary": "Any person whose relationship with the parties or counsel falls under Seventh Schedule ineligible to be appointed as arbitrator (Perkins Eastman test)." },
+        { "section": "Section 34", "title": "Application for setting aside arbitral award", "summary": "Recourse to Court against arbitral award on grounds of patent illegality, public policy, or lack of jurisdiction." },
+        { "section": "Section 37", "title": "Appealable orders", "summary": "Appeals against orders granting or refusing interim measures or setting aside awards." }
+      ]
+    },
+    {
+      "actCode": "BSA",
+      "actTitle": "Bharatiya Sakshya Adhiniyam, 2023",
+      "actNumber": "Act No. 47 of 2023",
+      "year": 2023,
+      "enactmentDate": "2023-12-25",
+      "ministry": "Ministry of Home Affairs",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/20120",
+      "status": "In Force w.e.f. 1 July 2024 (Replaces Indian Evidence Act 1872)",
+      "keySections": [
+        { "section": "Section 22", "title": "Admissions in civil cases when relevant", "summary": "No admission is relevant in civil cases if made upon express condition that evidence of it is not to be given (without prejudice)." },
+        { "section": "Section 61", "title": "Admissibility of electronic or digital records", "summary": "Electronic or digital records have the same legal effect and validity as paper documents." },
+        { "section": "Section 63", "title": "Admissibility of electronic records and certificate requirements", "summary": "Mandatory certificate signed by system custodian/manager with SHA-256/audit trail required for electronic records produced without primary device." }
+      ]
+    },
+    {
+      "actCode": "BNS",
+      "actTitle": "Bharatiya Nyaya Sanhita, 2023",
+      "actNumber": "Act No. 45 of 2023",
+      "year": 2023,
+      "enactmentDate": "2023-12-25",
+      "ministry": "Ministry of Home Affairs",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/20118",
+      "status": "In Force w.e.f. 1 July 2024 (Replaces Indian Penal Code 1860)",
+      "keySections": [
+        { "section": "Section 61", "title": "Criminal conspiracy", "summary": "Agreement of two or more persons to commit illegal act." },
+        { "section": "Section 316", "title": "Criminal breach of trust", "summary": "Dishonest misappropriation or conversion of entrusted property (formerly IPC 405/406)." },
+        { "section": "Section 318", "title": "Cheating", "summary": "Deceiving person dishonestly to deliver property (formerly IPC 415/420)." }
+      ]
+    },
+    {
+      "actCode": "BNSS",
+      "actTitle": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "actNumber": "Act No. 46 of 2023",
+      "year": 2023,
+      "enactmentDate": "2023-12-25",
+      "ministry": "Ministry of Home Affairs",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/20119",
+      "status": "In Force w.e.f. 1 July 2024 (Replaces Code of Criminal Procedure 1973)",
+      "keySections": [
+        { "section": "Section 35", "title": "When police may arrest without warrant", "summary": "Procedural safeguards and notice of appearance (formerly CrPC 41/41A, Arnesh Kumar rule)." },
+        { "section": "Section 173", "title": "Information in cognizable cases (Zero FIR)", "summary": "Mandatory registration of FIR for cognizable offences regardless of jurisdiction (formerly CrPC 154)." },
+        { "section": "Section 480", "title": "Bail in non-bailable offences", "summary": "Regular bail powers (formerly CrPC 437/439)." },
+        { "section": "Section 482", "title": "Direction for grant of bail to person apprehending arrest", "summary": "Anticipatory bail petition before High Court or Sessions Court (formerly CrPC 438)." },
+        { "section": "Section 528", "title": "Saving of inherent powers of High Court", "summary": "Inherent jurisdiction of High Court to quash abusive proceedings (formerly CrPC 482)." }
+      ]
+    },
+    {
+      "actCode": "COMM_COURTS",
+      "actTitle": "Commercial Courts Act, 2015",
+      "actNumber": "Act No. 4 of 2016",
+      "year": 2015,
+      "enactmentDate": "2015-12-31",
+      "ministry": "Ministry of Law and Justice",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/2157",
+      "status": "Active Central Enactment (Amended 2018)",
+      "keySections": [
+        { "section": "Section 2(1)(c)", "title": "Definition of Commercial Dispute", "summary": "Exhaustive categories of commercial disputes including mercantile documents, intellectual property, and service agreements." },
+        { "section": "Section 12A", "title": "Pre-Institution Mediation and Settlement", "summary": "Mandatory pre-institution mediation unless suit contemplates urgent interim relief (Patil Automation standard)." },
+        { "section": "Section 19", "title": "Infrastructure and training", "summary": "Dedicated procedures, strict written statement deadlines (120 days forfeiture rule)." }
+      ]
+    },
+    {
+      "actCode": "NI_ACT",
+      "actTitle": "Negotiable Instruments Act, 1881",
+      "actNumber": "Act No. 26 of 1881",
+      "year": 1881,
+      "enactmentDate": "1881-12-09",
+      "ministry": "Ministry of Finance",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/2261",
+      "status": "Active Central Enactment (Amended 2018)",
+      "keySections": [
+        { "section": "Section 138", "title": "Dishonour of cheque for insufficiency, etc., of funds", "summary": "Statutory notice within 30 days and 15-day cure period before criminal liability arises." },
+        { "section": "Section 141", "title": "Offences by companies", "summary": "Vicarious liability of directors in charge of and responsible for the conduct of company business." },
+        { "section": "Section 143A", "title": "Power to direct interim compensation", "summary": "Court may order drawer to pay interim compensation not exceeding 20% of cheque amount." }
+      ]
+    },
+    {
+      "actCode": "CPC",
+      "actTitle": "Code of Civil Procedure, 1908",
+      "actNumber": "Act No. 5 of 1908",
+      "year": 1908,
+      "enactmentDate": "1908-03-21",
+      "ministry": "Ministry of Law and Justice",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/2191",
+      "status": "Active Central Enactment",
+      "keySections": [
+        { "section": "Section 9", "title": "Courts to try all civil suits unless barred", "summary": "Civil courts have plenary jurisdiction over suits of civil nature unless expressly or impliedly barred." },
+        { "section": "Section 20", "title": "Other suits to be instituted where defendants reside or cause of action arises", "summary": "Territorial jurisdiction determined by residence, place of business, or where cause of action wholly or partially arises." },
+        { "section": "Order 39 Rule 1 & 2", "title": "Temporary injunctions and interlocutory orders", "summary": "Triple test: Prima facie case, balance of convenience, and irreparable injury." }
+      ]
+    },
+    {
+      "actCode": "CrPC",
+      "actTitle": "Code of Criminal Procedure, 1973",
+      "actNumber": "Act No. 2 of 1974",
+      "year": 1973,
+      "enactmentDate": "1974-01-25",
+      "ministry": "Ministry of Home Affairs",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/1611",
+      "status": "Historical Code (Applicable to proceedings instituted prior to 1 July 2024)",
+      "keySections": [
+        { "section": "Section 41", "title": "When police may arrest without warrant", "summary": "Statutory safeguards and subjective satisfaction requirement (Arnesh Kumar standard)." },
+        { "section": "Section 154", "title": "Information in cognizable cases", "summary": "Mandatory registration of First Information Report (Lalita Kumari benchmark)." },
+        { "section": "Section 438", "title": "Direction for grant of bail to person apprehending arrest", "summary": "Anticipatory bail jurisdiction before High Court and Court of Session." },
+        { "section": "Section 482", "title": "Saving of inherent powers of High Court", "summary": "Inherent jurisdiction of High Court to prevent abuse of process of any court." }
+      ]
+    },
+    {
+      "actCode": "IPC",
+      "actTitle": "Indian Penal Code, 1860",
+      "actNumber": "Act No. 45 of 1860",
+      "year": 1860,
+      "enactmentDate": "1860-10-06",
+      "ministry": "Ministry of Home Affairs",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/2263",
+      "status": "Historical Code (Applicable to offences committed prior to 1 July 2024)",
+      "keySections": [
+        { "section": "Section 120B", "title": "Punishment of criminal conspiracy", "summary": "Conspiracy to commit an offence punishable with death or imprisonment for life or rigorous imprisonment." },
+        { "section": "Section 406", "title": "Punishment for criminal breach of trust", "summary": "Imprisonment up to 3 years or fine or both." },
+        { "section": "Section 420", "title": "Cheating and dishonestly inducing delivery of property", "summary": "Imprisonment up to 7 years and fine." }
+      ]
+    },
+    {
+      "actCode": "IEA",
+      "actTitle": "Indian Evidence Act, 1872",
+      "actNumber": "Act No. 1 of 1872",
+      "year": 1872,
+      "enactmentDate": "1872-03-15",
+      "ministry": "Ministry of Law and Justice",
+      "indiaCodeUrl": "https://www.indiacode.nic.in/handle/123456789/2188",
+      "status": "Historical Enactment (Applicable to trials prior to 1 July 2024)",
+      "keySections": [
+        { "section": "Section 65B", "title": "Admissibility of electronic records", "summary": "Mandatory certificate under subsection (4) required for secondary electronic evidence (Arjun Panditrao Khotkar standard)." },
+        { "section": "Section 23", "title": "Admissions in civil cases when relevant", "summary": "Exclusion of without prejudice communications." }
+      ]
+    }
+  ],
+  "statuteCrossReference": [
+    {
+      "bnsSection": "Section 318",
+      "bnsTitle": "Cheating",
+      "ipcSection": "Section 420",
+      "ipcTitle": "Cheating and dishonestly inducing delivery of property",
+      "maxPunishment": "Imprisonment up to 7 years and fine",
+      "cognizable": true,
+      "bailable": false,
+      "triableBy": "Magistrate of the first class"
+    },
+    {
+      "bnsSection": "Section 316",
+      "bnsTitle": "Criminal Breach of Trust",
+      "ipcSection": "Section 405 / 406",
+      "ipcTitle": "Criminal breach of trust",
+      "maxPunishment": "Imprisonment up to 5 years, or fine, or both",
+      "cognizable": true,
+      "bailable": false,
+      "triableBy": "Magistrate of the first class"
+    },
+    {
+      "bnsSection": "Section 303(2)",
+      "bnsTitle": "Theft",
+      "ipcSection": "Section 379",
+      "ipcTitle": "Punishment for theft",
+      "maxPunishment": "Imprisonment up to 3 years, or fine, or both (community service for petty theft under sub-sec 2 proviso)",
+      "cognizable": true,
+      "bailable": false,
+      "triableBy": "Any Magistrate"
+    },
+    {
+      "bnsSection": "Section 103",
+      "bnsTitle": "Punishment for Murder",
+      "ipcSection": "Section 302",
+      "ipcTitle": "Punishment for murder",
+      "maxPunishment": "Death or imprisonment for life, and fine",
+      "cognizable": true,
+      "bailable": false,
+      "triableBy": "Court of Session"
+    },
+    {
+      "bnsSection": "Section 351",
+      "bnsTitle": "Criminal Intimidation",
+      "ipcSection": "Section 506",
+      "ipcTitle": "Punishment for criminal intimidation",
+      "maxPunishment": "Imprisonment up to 2 years, or fine, or both",
+      "cognizable": false,
+      "bailable": true,
+      "triableBy": "Any Magistrate"
+    },
+    {
+      "bnsSection": "Section 61",
+      "bnsTitle": "Criminal Conspiracy",
+      "ipcSection": "Section 120B",
+      "ipcTitle": "Punishment of criminal conspiracy",
+      "maxPunishment": "Same manner as if he had abetted such offence",
+      "cognizable": true,
+      "bailable": false,
+      "triableBy": "Court by which offence is triable"
+    }
+  ],
+  "proceduralCrossReference": [
+    {
+      "bnssSection": "Section 482",
+      "bnssTitle": "Direction for grant of bail to person apprehending arrest (Anticipatory Bail)",
+      "crpcSection": "Section 438",
+      "crpcTitle": "Direction for grant of bail to person apprehending arrest",
+      "court": "High Court or Court of Session",
+      "keyTest": "Apprehension of arrest on accusation of having committed a non-bailable offence"
+    },
+    {
+      "bnssSection": "Section 480",
+      "bnssTitle": "When bail may be taken in case of non-bailable offence (Regular Bail)",
+      "crpcSection": "Section 437 / 439",
+      "crpcTitle": "Special powers of High Court or Court of Session regarding bail",
+      "court": "Magistrate / Sessions / High Court",
+      "keyTest": "Triple test: Flight risk, tampering with evidence, influencing witnesses"
+    },
+    {
+      "bnssSection": "Section 528",
+      "bnssTitle": "Saving of inherent powers of High Court",
+      "crpcSection": "Section 482",
+      "crpcTitle": "Saving of inherent powers of High Court (Quashing)",
+      "court": "High Court",
+      "keyTest": "To prevent abuse of process of any court or otherwise to secure ends of justice"
+    },
+    {
+      "bnssSection": "Section 173",
+      "bnssTitle": "Information in cognizable cases (Zero FIR & Electronic Information)",
+      "crpcSection": "Section 154",
+      "crpcTitle": "Information in cognizable cases (FIR)",
+      "court": "Police Station / Jurisdictional Magistrate",
+      "keyTest": "Mandatory registration of FIR upon disclosing cognizable offence (Lalita Kumari)"
+    }
+  ],
+  "evidenceCrossReference": [
+    {
+      "bsaSection": "Section 61",
+      "bsaTitle": "Admissibility of Electronic or Digital Records",
+      "ieaSection": "Section 65A",
+      "ieaTitle": "Special provisions as to evidence relating to electronic record",
+      "requirement": "Electronic record shall have the same legal effect, validity and enforceability as other documents."
+    },
+    {
+      "bsaSection": "Section 63",
+      "bsaTitle": "Admissibility of Electronic Records & Certificate Requirements",
+      "ieaSection": "Section 65B",
+      "ieaTitle": "Admissibility of electronic records",
+      "requirement": "Section 63 Certificate signed by person occupying responsible official position in management of device or relevant activity, accompanied by hash value/audit trail."
+    },
+    {
+      "bsaSection": "Section 22",
+      "bsaTitle": "Admissions in Civil Cases when relevant",
+      "ieaSection": "Section 23",
+      "ieaTitle": "Admissions in civil cases when relevant",
+      "requirement": "Without prejudice communications excluded from admissibility."
+    }
+  ],
+  "landmarkPrecedents": [
+    {
+      "id": "prec-001",
+      "citation": "(2020) 7 SCC 1",
+      "alternativeCitation": "AIR 2020 SC 3402",
+      "inscCitation": "2020 INSC 452",
+      "title": "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal",
+      "court": "Supreme Court of India",
+      "bench": "R.F. Nariman, S. Ravindra Bhat, V. Ramasubramanian JJ. (3-Judge Bench)",
+      "decisionDate": "2020-07-14",
+      "year": 2020,
+      "subject": "Electronic Evidence / Certificate under Sec 65B IEA / Sec 63 BSA",
+      "status": "Active Landmark Precedent",
+      "officialSource": "Digital Supreme Court Reports (DigiSCR / SCI)",
+      "officialUrl": "https://digiscr.sci.gov.in",
+      "ratio": "Certificate under Section 65B(4) is a mandatory condition precedent to the admissibility of evidence by way of electronic record when original device cannot be brought to court.",
+      "relevance": "Crucial for verifying admissibility of emails, WhatsApp chats, server logs and digital recordings under BSA Section 63.",
+      "relatedStatutes": ["Bharatiya Sakshya Adhiniyam, 2023 - Section 63", "Indian Evidence Act, 1872 - Section 65B"]
+    },
+    {
+      "id": "prec-002",
+      "citation": "(2020) 12 SCC 767",
+      "alternativeCitation": "AIR 2020 SC 347",
+      "inscCitation": "2019 INSC 1294",
+      "title": "Perkins Eastman Architects DPC v. HSCC (India) Ltd.",
+      "court": "Supreme Court of India",
+      "bench": "U.U. Lalit, Vineet Saran JJ. (Division Bench)",
+      "decisionDate": "2019-11-26",
+      "year": 2020,
+      "subject": "Arbitration / Unilateral Appointment of Sole Arbitrator",
+      "status": "Active Landmark Precedent",
+      "officialSource": "Supreme Court of India Judgments Repository",
+      "officialUrl": "https://main.sci.gov.in",
+      "ratio": "A person who has an interest in the outcome or decision of the dispute must not have the power to unilaterally appoint a sole arbitrator under Section 12(5) read with the Seventh Schedule.",
+      "relevance": "Standard redline detection trigger for commercial agreements and unilateral dispute resolution clauses.",
+      "relatedStatutes": ["Arbitration and Conciliation Act, 1996 - Section 12(5)"]
+    },
+    {
+      "id": "prec-003",
+      "citation": "(2022) 10 SCC 51",
+      "alternativeCitation": "2022 INSC 690",
+      "inscCitation": "2022 INSC 690",
+      "title": "Satender Kumar Antil v. Central Bureau of Investigation",
+      "court": "Supreme Court of India",
+      "bench": "Sanjay Kishan Kaul, M.M. Sundresh JJ.",
+      "decisionDate": "2022-07-11",
+      "year": 2022,
+      "subject": "Bail Jurisprudence & Categorization of Offences",
+      "status": "Active Landmark Precedent",
+      "officialSource": "Digital Supreme Court Reports (DigiSCR / SCI)",
+      "officialUrl": "https://digiscr.sci.gov.in",
+      "ratio": "Strict guidelines on arrest without warrant under Sec 41/41A CrPC (now BNSS 35). Courts must strictly avoid unnecessary detention where accused cooperates and chargesheet is filed.",
+      "relevance": "Essential benchmark for drafting Anticipatory and Regular Bail petitions.",
+      "relatedStatutes": ["Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35, 480, 482", "Code of Criminal Procedure, 1973 - Section 41, 438"]
+    },
+    {
+      "id": "prec-004",
+      "citation": "(2021) 2 SCC 1",
+      "alternativeCitation": "AIR 2021 SC 1099",
+      "inscCitation": "2020 INSC 697",
+      "title": "Vidya Drolia and Others v. Durga Trading Corporation",
+      "court": "Supreme Court of India",
+      "bench": "N.V. Ramana, Sanjiv Khanna, Krishna Murari JJ. (3-Judge Bench)",
+      "decisionDate": "2020-12-14",
+      "year": 2021,
+      "subject": "Arbitrability & Scope of Judicial Review under Sec 8 & 11 Arbitration Act",
+      "status": "Active Landmark Precedent",
+      "officialSource": "Digital Supreme Court Reports (DigiSCR / SCI)",
+      "officialUrl": "https://digiscr.sci.gov.in",
+      "ratio": "Four-fold test for non-arbitrability: actions in rem, matters affecting third-party rights, inalienable sovereign functions, and disputes expressly reserved for specific courts.",
+      "relevance": "Key defense standard in commercial suits and arbitration petitions.",
+      "relatedStatutes": ["Arbitration and Conciliation Act, 1996 - Section 8, 11"]
+    },
+    {
+      "id": "prec-005",
+      "citation": "(2014) 8 SCC 273",
+      "alternativeCitation": "AIR 2014 SC 2756",
+      "inscCitation": "2014 INSC 478",
+      "title": "Arnesh Kumar v. State of Bihar",
+      "court": "Supreme Court of India",
+      "bench": "Chandramauli Kr. Prasad, Pinaki Chandra Ghose JJ.",
+      "decisionDate": "2014-07-02",
+      "year": 2014,
+      "subject": "Arrest guidelines under Section 41 CrPC",
+      "status": "Active Landmark Precedent",
+      "officialSource": "Supreme Court of India Judgments Repository",
+      "officialUrl": "https://main.sci.gov.in",
+      "ratio": "Police officers cannot arrest accused merely because non-bailable offence punishable up to 7 years is alleged; objective notice of appearance must be served first.",
+      "relevance": "Protective shield in matrimonial, financial dispute, and minor offence proceedings.",
+      "relatedStatutes": ["Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 35", "Code of Criminal Procedure, 1973 - Section 41A"]
+    },
+    {
+      "id": "prec-006",
+      "citation": "(2014) 2 SCC 1",
+      "alternativeCitation": "AIR 2014 SC 187",
+      "inscCitation": "2013 INSC 798",
+      "title": "Lalita Kumari v. Govt. of U.P.",
+      "court": "Supreme Court of India",
+      "bench": "P. Sathasivam CJI, B.S. Chauhan, Ranjana P. Desai, Ranjan Gogoi, S.A. Bobde JJ. (5-Judge Constitution Bench)",
+      "decisionDate": "2013-11-12",
+      "year": 2014,
+      "subject": "Mandatory Registration of FIR",
+      "status": "Active Landmark Precedent",
+      "officialSource": "Supreme Court of India Judgments Repository",
+      "officialUrl": "https://main.sci.gov.in",
+      "ratio": "Registration of FIR is mandatory under Section 154 of the Code (now Section 173 BNSS) if the information discloses commission of a cognizable offence.",
+      "relevance": "Foundational in quashing, writ petitions, and criminal defense matters.",
+      "relatedStatutes": ["Bharatiya Nagarik Suraksha Sanhita, 2023 - Section 173", "Code of Criminal Procedure, 1973 - Section 154"]
+    },
+    {
+      "id": "prec-007",
+      "citation": "(1964) 1 SCR 515",
+      "alternativeCitation": "AIR 1963 SC 1405",
+      "inscCitation": "1963 INSC 9",
+      "title": "Fateh Chand v. Balkishan Dass",
+      "court": "Supreme Court of India",
+      "bench": "J.C. Shah, P.B. Gajendragadkar, K.N. Wanchoo, K.C. Das Gupta, J.R. Mudholkar JJ. (5-Judge Constitution Bench)",
+      "decisionDate": "1963-01-15",
+      "year": 1964,
+      "subject": "Liquidated Damages vs Penalties under Section 74 Indian Contract Act",
+      "status": "Active Landmark Precedent",
+      "officialSource": "Digital Supreme Court Reports (DigiSCR / SCI)",
+      "officialUrl": "https://digiscr.sci.gov.in",
+      "ratio": "Section 74 of the Indian Contract Act dispenses with proof of actual loss, but does not justify award of compensation where no legal injury has occurred. Forfeiture of earnest money beyond reasonable loss constitutes penalty and cannot be enforced.",
+      "relevance": "Essential benchmark for assessing liquidated damages and penalty clauses in commercial contracts.",
+      "relatedStatutes": ["Indian Contract Act, 1872 - Section 74"]
+    },
+    {
+      "id": "prec-008",
+      "citation": "(2006) 4 SCC 227",
+      "alternativeCitation": "AIR 2006 SC 3426",
+      "inscCitation": "2006 INSC 155",
+      "title": "Percept D'Mark (India) (P) Ltd. v. Zaheer Khan",
+      "court": "Supreme Court of India",
+      "bench": "H.K. Sema, Markandey Katju JJ.",
+      "decisionDate": "2006-03-22",
+      "year": 2006,
+      "subject": "Restraint of Trade under Section 27 Indian Contract Act",
+      "status": "Active Landmark Precedent",
+      "officialSource": "Digital Supreme Court Reports (DigiSCR / SCI)",
+      "officialUrl": "https://digiscr.sci.gov.in",
+      "ratio": "Under Section 27 of the Indian Contract Act, a restrictive covenant extending beyond the term of the agreement is void and unenforceable. The doctrine of restraint of trade applies strictly post-termination.",
+      "relevance": "Key precedent for vetting non-compete, exclusivity, and post-employment covenants.",
+      "relatedStatutes": ["Indian Contract Act, 1872 - Section 27"]
+    },
+    {
+      "id": "prec-009",
+      "citation": "(2003) 5 SCC 705",
+      "alternativeCitation": "AIR 2003 SC 2629",
+      "inscCitation": "2003 INSC 226",
+      "title": "Oil & Natural Gas Corporation Ltd. v. Saw Pipes Ltd.",
+      "court": "Supreme Court of India",
+      "bench": "M.B. Shah, Arun Kumar JJ.",
+      "decisionDate": "2003-04-17",
+      "year": 2003,
+      "subject": "Arbitral Award Challenge & Patent Illegality under Section 34",
+      "status": "Active Landmark Precedent",
+      "officialSource": "Digital Supreme Court Reports (DigiSCR / SCI)",
+      "officialUrl": "https://digiscr.sci.gov.in",
+      "ratio": "An arbitral award can be set aside if it is contrary to the fundamental policy of Indian law, interest of India, or patently illegal. Liquidated damages named in contract can be granted if genuine pre-estimate.",
+      "relevance": "Governs Section 34 arbitration award challenge petitions.",
+      "relatedStatutes": ["Arbitration and Conciliation Act, 1996 - Section 34", "Indian Contract Act, 1872 - Section 74"]
+    }
+  ]
+}

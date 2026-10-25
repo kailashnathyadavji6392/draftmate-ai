@@ -1,0 +1,40 @@
+[
+  {
+    "id": "draft-1792903697515-113",
+    "userId": "usr-1792903697004-655",
+    "title": "User A Privileged Legal Notice",
+    "content": "LEGAL NOTICE UNDER SECTION 138 OF THE NEGOTIABLE INSTRUMENTS ACT 1881...",
+    "matterId": "mat-1792903697464-770",
+    "docType": "Legal Notice",
+    "language": "en",
+    "wordCount": 11,
+    "isAiPowered": false,
+    "provider": "DraftMate Legal Engine",
+    "evidenceClaims": [],
+    "missingPlaceholders": [],
+    "disclaimer": "DRAFT — Subject to Advocate Review and Verification.",
+    "status": "Draft",
+    "version": 1,
+    "createdAt": "2026-10-25T04:48:17.515Z",
+    "updatedAt": "2026-10-25T04:48:17.515Z"
+  },
+  {
+    "id": "draft-1792903580621-581",
+    "userId": "usr-1792903580217-206",
+    "title": "User A Privileged Legal Notice",
+    "content": "LEGAL NOTICE UNDER SECTION 138 OF THE NEGOTIABLE INSTRUMENTS ACT 1881...",
+    "matterId": "mat-1792903580566-610",
+    "docType": "Legal Notice",
+    "language": "en",
+    "wordCount": 11,
+    "isAiPowered": false,
+    "provider": "DraftMate Legal Engine",
+    "evidenceClaims": [],
+    "missingPlaceholders": [],
+    "disclaimer": "DRAFT — Subject to Advocate Review and Verification.",
+    "status": "Draft",
+    "version": 1,
+    "createdAt": "2026-10-25T04:46:20.621Z",
+    "updatedAt": "2026-10-25T04:46:20.621Z"
+  }
+]
